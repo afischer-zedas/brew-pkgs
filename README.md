@@ -11,8 +11,8 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`python3`](https://formulae.brew.sh/formula/python@3.9) (Scripting Language)
 - [`iterm2`](https://formulae.brew.sh/cask/iterm2) (Terminal Emulator)
 - [`ghostty`](https://formulae.brew.sh/cask/ghostty) (Terminal Emulator)
-- [`latest`](https://formulae.brew.sh/cask/latest) (Update Checker)
-- [`raycast`](https://formulae.brew.sh/cask/raycast) (Raycast Launcher - Spotlight replacement)
+- [`latest` (Cask)](https://formulae.brew.sh/cask/latest) (Update Checker)
+- [`raycast` (Cask)](https://formulae.brew.sh/cask/raycast) (Raycast Launcher - Spotlight replacement)
 
 ## CLI Tools
 
@@ -55,6 +55,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`jenv`](https://formulae.brew.sh/formula/jenv) (Java Environment Manager)
 - [`rbenv`](https://formulae.brew.sh/formula/rbenv) (Ruby Environment Manager)
 - [`zed`](https://formulae.brew.sh/cask/zed) (Zed Editor)
+- [`dbeaver-community` (Cask)](https://formulae.brew.sh/cask/dbeaver-community) (DBeaver Community Edition)
 
 ## Security
 
